@@ -26,7 +26,7 @@ public class TestBase {
 		fMap.put("productSubCategory",productSubCategory );
 		fMap.put("productPrice", productPrice);
 		fMap.put("productDescription",productDescription );
-		fMap.put("productFor", productFor);
+		fMap.put("productFor", productFor); //hii
 		
 		return fMap;	
 		
